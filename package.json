@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "Learning BBootstrap project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "saas",
+    "learn-bootstrap",
+    "learn",
+    "saas\u001b[D\u001b[D\u001b[D\u001b[-\u001b[C\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Sagar-Bisht\u001b[D\u001b[D\u001b[D\u001b[D\u001b[ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.64.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "^5.3.1",
+    "fontawesome-6-pro": "^6.4.0"
+  }
+}
